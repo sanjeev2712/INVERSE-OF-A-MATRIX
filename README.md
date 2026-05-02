@@ -23,7 +23,9 @@ inv=np.linalg.inv(matrixA)
 print(inv)
 ```
 ## Output:
+
 <img width="1453" height="809" alt="Screenshot 2026-05-02 084121" src="https://github.com/user-attachments/assets/c9a439d4-6746-4ce5-bdc3-4f5aae68271c" />
+
 <img width="1493" height="388" alt="Screenshot 2026-05-02 084140" src="https://github.com/user-attachments/assets/f1a8a255-376c-48bf-afd5-b62731063619" />
 
 
